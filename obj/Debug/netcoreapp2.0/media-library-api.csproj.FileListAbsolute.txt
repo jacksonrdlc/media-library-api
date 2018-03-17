@@ -1,0 +1,10 @@
+/Users/clairekrueger21/src/media-library-api/bin/Debug/netcoreapp2.0/media-library-api.deps.json
+/Users/clairekrueger21/src/media-library-api/bin/Debug/netcoreapp2.0/media-library-api.runtimeconfig.json
+/Users/clairekrueger21/src/media-library-api/bin/Debug/netcoreapp2.0/media-library-api.runtimeconfig.dev.json
+/Users/clairekrueger21/src/media-library-api/bin/Debug/netcoreapp2.0/media-library-api.dll
+/Users/clairekrueger21/src/media-library-api/bin/Debug/netcoreapp2.0/media-library-api.pdb
+/Users/clairekrueger21/src/media-library-api/obj/Debug/netcoreapp2.0/media-library-api.csproj.CoreCompileInputs.cache
+/Users/clairekrueger21/src/media-library-api/obj/Debug/netcoreapp2.0/media-library-api.AssemblyInfoInputs.cache
+/Users/clairekrueger21/src/media-library-api/obj/Debug/netcoreapp2.0/media-library-api.AssemblyInfo.cs
+/Users/clairekrueger21/src/media-library-api/obj/Debug/netcoreapp2.0/media-library-api.dll
+/Users/clairekrueger21/src/media-library-api/obj/Debug/netcoreapp2.0/media-library-api.pdb
